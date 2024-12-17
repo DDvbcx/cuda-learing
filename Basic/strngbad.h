@@ -1,4 +1,4 @@
-// 头文件
+// 头文件，使用动态内存来开发类
 #include <iostream>
 #ifndef STRNGBAD_H_
 #define STRNGBAD_H_
