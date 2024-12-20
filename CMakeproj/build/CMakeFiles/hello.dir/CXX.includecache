@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/hello.h
+
+/root/Cuda/CMakeproj/src/main.cpp
+iostream
+-
+hello.h
+/root/Cuda/CMakeproj/src/hello.h
+
