@@ -1,6 +1,6 @@
 # cuda-learing
 记录 Cuda 学习的厂库。  
-课程地址: https://www.youtube.com/watch?v=86FAWCzIe_4&t=8658s.
+课程地址: [视频地址](https://www.youtube.com/watch?v=86FAWCzIe_4&t=8658s).
 
 ### 厂库内容介绍
 ```Basic``` 文件夹下是有关于C/C++ 的基础知识。   
